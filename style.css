@@ -1,0 +1,31 @@
+:root{
+  --Baskerville:'Libre Baskerville', serif;
+  --Montserrat:'Montserrat', sans-serif;
+}
+
+header h1{
+  font-family: var(--Baskerville);
+}
+
+.social>*{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+aside .card-title{
+  font-family: var(--Baskerville);
+}
+
+aside .card-header{
+    font-family: var(--Baskerville);
+    background-color: transparent;
+    border:none;
+}
+
+aside {
+  font-family: var(--Montserrat);
+}
+
+aside .categories p{
+  margin: 0;
+}
