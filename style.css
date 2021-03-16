@@ -48,3 +48,49 @@ aside .categories p{
 .popposts p {
   margin: 0;
 }
+
+/* Rebecca
+
+main h2 { 
+  font-family: var(--Baskerville);
+}
+
+main p {
+  font-family: var(--Montserrat);
+}
+*/
+
+
+
+/* Emmannuel
+header h1, h2{
+  font-family: var(--Baskerville);
+}
+
+.social>*{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+aside .card-title{
+  font-family: var(--Baskerville);
+}
+
+aside .card-header{
+    font-family: var(--Baskerville);
+    background-color: transparent;
+    border:none;
+}
+
+aside, section {
+  font-family: var(--Montserrat);
+}
+
+aside .categories p{
+  margin: 0;
+}
+
+.form-label {
+  margin-bottom: 0;
+} 
+*/
