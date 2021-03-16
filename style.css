@@ -7,6 +7,21 @@ header h1{
   font-family: var(--Baskerville);
 }
 
+.carousel h5{
+  font-family: var(--Baskerville);
+}
+.carousel p {
+  font-family: var(--Montserrat);
+}
+
+main h2{
+  font-family: var(--Baskerville);
+}
+
+main p {
+  font-family: var(--Montserrat);
+}
+
 .social>*{
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -27,5 +42,9 @@ aside {
 }
 
 aside .categories p{
+  margin: 0;
+}
+
+.popposts p {
   margin: 0;
 }
