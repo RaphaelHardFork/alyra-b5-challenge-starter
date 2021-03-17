@@ -3,6 +3,40 @@
   --Montserrat:'Montserrat', sans-serif;
 }
 
+body h1,h2,h3,h4,h5{
+  font-family: var(--Baskerville);
+}
+
+body p {
+  font-family: var(--Montserrat);
+}
+
+.social>*{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+aside .card-header{
+  background-color: transparent;
+  border:none;
+}
+
+aside .categories p{
+  margin: 0;
+}
+
+.popposts p {
+  margin: 0;
+}
+
+.form-label {
+  margin-bottom: 0;
+} 
+
+
+
+
+/* Raphael
 header h1{
   font-family: var(--Baskerville);
 }
@@ -49,6 +83,8 @@ aside .categories p{
   margin: 0;
 }
 
+*/
+
 /* Rebecca
 
 main h2 { 
@@ -90,7 +126,5 @@ aside .categories p{
   margin: 0;
 }
 
-.form-label {
-  margin-bottom: 0;
-} 
+
 */
