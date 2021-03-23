@@ -1,5 +1,8 @@
 # Alyra Bootstrap Challenge
 
+### Rendu   
+[Voir le site](https://alyra-html-b5-challenge.netlify.app/)
+
 ### Référence
 
 Dans le dossier `screenshots` vous trouverez des captures d'écran et une video .mp4.
